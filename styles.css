@@ -1,0 +1,25 @@
+body {
+  margin: 0px;
+  background-color: #dedede;
+}
+h1 {
+  margin: 0px;
+  font-family: "Work Sans", sans-serif;
+}
+.header {
+  height: 150px;
+  background-color: #a9c3d1;
+  display: flex;
+  justify-content: center;
+}
+.header > .name {
+  margin-top: 50px;
+}
+.hero-section {
+  display: flex;
+  justify-content: center;
+}
+.hero-image > .profile-photo {
+  margin-top: 20px;
+  height: 150px;
+}
